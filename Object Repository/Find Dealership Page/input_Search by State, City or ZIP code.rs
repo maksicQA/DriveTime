@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Search by State, City or ZIP code</name>
+   <tag></tag>
+   <elementGuidId>73c3a0ec-2c77-4a36-8189-cf5aa1fd9c17</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;main-section&quot;)/dtm-dealership-search-results-page[1]/div[@class=&quot;dsr-outer-container&quot;]/div[@class=&quot;upper-page-container&quot;]/div[@class=&quot;results-container&quot;]/div[@class=&quot;dealer-container&quot;]/div[@class=&quot;location-outer-container&quot;]/dtm-dsr-location-bar[@class=&quot;location-bar&quot;]/div[@class=&quot;top-location-container&quot;]/div[@class=&quot;top-location-component&quot;]/dtm-top-location-bar[1]/div[@class=&quot;top-location-bar&quot;]/div[@class=&quot;right-side non-geo-located&quot;]/div[@class=&quot;input-overlay&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-section']/dtm-dealership-search-results-page/div/div/div/div[2]/div/dtm-dsr-location-bar/div/div/dtm-top-location-bar/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-overlay</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-overlay</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>qaid</name>
+      <type>Main</type>
+      <value>typeahead-overlay</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/dtm-dealership-search-results-page[1]/div[@class=&quot;dsr-outer-container&quot;]/div[@class=&quot;upper-page-container&quot;]/div[@class=&quot;results-container&quot;]/div[@class=&quot;dealer-container&quot;]/div[@class=&quot;location-outer-container&quot;]/dtm-dsr-location-bar[@class=&quot;location-bar&quot;]/div[@class=&quot;top-location-container&quot;]/div[@class=&quot;top-location-component&quot;]/dtm-top-location-bar[1]/div[@class=&quot;top-location-bar&quot;]/div[@class=&quot;right-side non-geo-located&quot;]/div[@class=&quot;input-overlay&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-section']/dtm-dealership-search-results-page/div/div/div/div[2]/div/dtm-dsr-location-bar/div/div/dtm-top-location-bar/div/div[2]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dtm-top-location-bar/div/div[2]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

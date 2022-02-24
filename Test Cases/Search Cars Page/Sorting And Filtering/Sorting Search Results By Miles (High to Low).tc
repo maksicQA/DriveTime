@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Sorting Search Results By Miles (High to Low)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07ccb259-00ff-4f56-95d4-8ca5885c1ff4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d315cbf1-70f2-4bfb-94c5-a59bf3f6e891</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

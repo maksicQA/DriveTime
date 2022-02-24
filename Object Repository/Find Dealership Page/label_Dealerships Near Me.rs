@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Dealerships Near Me</name>
+   <tag></tag>
+   <elementGuidId>5f74da24-fbcc-447b-b07d-bc8c17b22f79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Dealerships Near Me' or . = 'Dealerships Near Me')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='main-section']/dtm-dealership-search-results-page/div/div/div/div[2]/div/dtm-dsr-location-bar/div/div/dtm-top-location-bar/div/div/span/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.left-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>left-text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>qaid</name>
+      <type>Main</type>
+      <value>dsr-h1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dealerships Near Me</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-section&quot;)/dtm-dealership-search-results-page[1]/div[@class=&quot;dsr-outer-container&quot;]/div[@class=&quot;upper-page-container&quot;]/div[@class=&quot;results-container&quot;]/div[@class=&quot;dealer-container&quot;]/div[@class=&quot;location-outer-container&quot;]/dtm-dsr-location-bar[@class=&quot;location-bar&quot;]/div[@class=&quot;top-location-container&quot;]/div[@class=&quot;top-location-component&quot;]/dtm-top-location-bar[1]/div[@class=&quot;top-location-bar&quot;]/div[@class=&quot;left-side&quot;]/span[1]/h1[@class=&quot;left-text&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='main-section']/dtm-dealership-search-results-page/div/div/div/div[2]/div/dtm-dsr-location-bar/div/div/dtm-top-location-bar/div/div/span/h1</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/following::h1[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Map data ©2022 Google, INEGI'])[2]/following::h1[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter City, State, ZIP'])[1]/preceding::h1[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chandler'])[1]/preceding::h1[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dealerships Near Me']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Dealerships Near Me' or . = 'Dealerships Near Me')]</value>
+   </webElementXpaths>
+</WebElementEntity>

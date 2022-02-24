@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "5DA8D6064D7F8D4A9843860F93DBD378",
+  "keywordClasses": [
+    {
+      "name": "common.ScreenshotHelper",
+      "keywordMethods": [
+        {
+          "name": "takeScreenshot",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

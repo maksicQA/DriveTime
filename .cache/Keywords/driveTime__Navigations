@@ -1,0 +1,31 @@
+{
+  "keywordFileContentHash": "95C249223EAF9553E4FC894D2083C31F",
+  "keywordClasses": [
+    {
+      "name": "driveTime.Navigations",
+      "keywordMethods": [
+        {
+          "name": "openDriveTimeSite",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "navigateToSearchCarsPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "navigateToFindDealershipPage",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "navigateToGetApprovedPage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
